@@ -29,7 +29,7 @@ const config = {
     collapsedNav: [
       
     ],
-    links: [{ text: 'trifenix', link: 'https://www.rodrigo-montenegro.me' }],
+    links: [{ text: 'trifenix', link: 'https://www.uv.trifenix.io' }],
     frontline: true,
     ignoreIndex: true,
     title:
